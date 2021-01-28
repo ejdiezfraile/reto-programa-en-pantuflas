@@ -18,6 +18,21 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 *   Thinking ...
 
+---
+
+**Fecha**: 28/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Repaso HTML
+*   Flex+Grid CSS
+
+**Próximos hitos**
+
+*   Wireframe del layout de la webapp
+
 ## **Badges**
 
 Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
